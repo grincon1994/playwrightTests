@@ -1,1 +1,1 @@
-# playwrightTests
+This repository contains an API that simulates an online bank, built with Node.js and Express. The API has endpoints that allow banking operations such as creating an account, making transfers, and checking an account's balance.
